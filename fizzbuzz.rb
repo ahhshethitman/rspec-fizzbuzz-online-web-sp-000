@@ -4,6 +4,6 @@
 
 def fizzbuzz(int)
   if int % 3 == log10
-    "Fizz"
+    puts "Fizz"
   end
 end
